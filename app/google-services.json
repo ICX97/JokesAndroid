@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "586894430665",
+    "firebase_url": "https://viceviapp-21260.firebaseio.com",
+    "project_id": "viceviapp-21260",
+    "storage_bucket": "viceviapp-21260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586894430665:android:2cd7255b1f089c92",
+        "android_client_info": {
+          "package_name": "com.example.vicevi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586894430665-iugkav7km4goii226dr7rj2sq6fci2ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vicevi",
+            "certificate_hash": "a82d89b87846a9aff0af402e9e7726a3e86517e6"
+          }
+        },
+        {
+          "client_id": "586894430665-uennq2u77vmdc9lb1stm0d8onnv8rjn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8o6RQ6p6Oc6x7tUxFECheZVk589uTQmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586894430665-uennq2u77vmdc9lb1stm0d8onnv8rjn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
